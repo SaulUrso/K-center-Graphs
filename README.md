@@ -3,14 +3,18 @@ Graph used for measurements of distributed algorithms on the K-center problem
 
 ## Types of graphs
 
-### Pathgraph
+###BAGraphs
 
-* A path graph with 8 nodes. Nodes weights are between 1 and 5. Edges lengths are between 1 and 5.
+Barabasi-Albert Graphs
 
-### 6 nodes graph
+###ERGraphs
 
-* A graph with 6 nodes. Nodes weights are between 1 and 5. Edges lengths are between 1 and 5.
+Erdos-Renyi Graphs
 
-### 32 nodes Barabasi-Albert graph
+### NWSGraphs
 
-* A Graph created using Barabasi-Albert graph generator. Nodes weights are between 1 and 5. Edges lengths are between 1 and 5.
+Newman-Watts-Strogatz Graphs
+
+### OtherGraphs
+
+Other small graphs used to check if the algorithms were working
