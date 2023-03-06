@@ -3,11 +3,11 @@ Graph used for measurements of distributed algorithms on the K-center problem
 
 ## Types of graphs
 
-###BAGraphs
+### BAGraphs
 
 Barabasi-Albert Graphs
 
-###ERGraphs
+### ERGraphs
 
 Erdos-Renyi Graphs
 
